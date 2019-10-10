@@ -1,0 +1,13 @@
+{
+  "name": "dpi-bug",
+  "version": "1.0.0",
+  "description": "Testing bug",
+  "main": "app.js",
+  "scripts": {
+    "start": "electron app.js"
+  },
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^6.0.6"
+  }
+}
